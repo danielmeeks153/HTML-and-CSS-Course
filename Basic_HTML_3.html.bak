@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+	<link rel="stylesheet" type="text/css" href="Class_A.css">
+		<title>Main Practice Page</title> 
+		<meta charset="utf-8"> 
+	</head>   
+	<body> 
+	
+		<h1>normal text</h1>
+		<h2 class="Class_A">This h2 element is styled per calss attribute font_1</h2>
+		<h3 class="Class_A">This h3 element is styled per class attribute font_3</h3>
+		<p class="Class_A">Even though this is an h4 element, it is styled the same as the h2 element becasue we pinted to the class attribute font_1</p>
+
+	
+	
+	</body>
+</html>
+	

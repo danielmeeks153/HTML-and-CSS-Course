@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+	<link rel="stylesheet" type="text/css" href="Class_A.css">
+		<title>Main Practice Page</title> 
+		<meta charset="utf-8"> 
+	</head>   
+	<body> 
+	
+		<h1>&nbsp &nbsp &nbsp &nbsp &nbsp normal text</h1>
+		<table style="width:100%">
+			<tr>
+				<th>Name</th>
+				<th>Phone Number</th>
+				<th>Email</th>
+				<th>Notes</th>
+			</tr>
+			<tr>
+				<td>Jon Snow</td>
+				<td>123123132</td>
+				<td>JS@ironthrone.com</td>
+				<td>King of the North</td>
+			</tr>
+			<tr>
+				<td>Daenerys Targaryen</td>
+				<td>432432432</td>
+				<td>mod@fdfd.com</td>
+				<td>the Mad Queen</td>
+			</tr>
+		<ol>
+			<li>Bread</li>
+			<li>Eggs</li>
+		</ol>
+		<ul>
+			<li>Cats</li>
+			<li>Dogs</li>
+			<li>Snakes</li>
+		</ul>
+	
+	</body>
+	
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+	<link rel="stylesheet" type="text/css" href="Class_A.css">
+		<title>Utah Outdoor Wonders</title> 
+		<meta charset="utf-8"> 
+	</head>   
+	<body> 
+		<h1>Outdoor Wonders of Utah</h1> 
+			<p>Here you can see a small bit of the outdoor wonders of utah.<br> 
+			Because i'm from Utah i'll only show placese I have visited. </p>
+			
+			<nav>
+				<a href="#Video">Utah Video</a>
+				<a href="#Arches National Park">Arches National Park</a>
+				<a href="#Bryce Canyon">Bryce Canyon</a>
+				<a href="#The Great Salt Lake">The Great Salt Lake</a> 
+				<a href="#Park City Utah">Park City Utah</a> 
+				<a href="#Salt Flats">Salt Flats</a> 
+				<a href="#contact">Contact</a> 
+				
+			</nav>
+			<!--Photo-Container-->
+					<div>
+						<div>
+							<img src="./one-page-website-images/Arches.jpg" alt="Sorry you are not cool enough to see this picture" >
+							<div>
+								<h3 id="Arches National Park">Arches National Park</h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+			<!--End of Photo Container 1-->
+			
+			<!--Photo-Container-->
+					<div>
+						<div>
+							<img src="./one-page-website-images/Bryce canyon.jpg" alt="Sorry you are not cool enough to see this picture">
+							<div>
+								<h3 id="Bryce Canyon">Bryce Canyon</h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+			<!--End of Photo Container 2-->
+			<!--Photo-Container-->
+					<div>
+						<div>
+							<img src="./one-page-website-images/great-salt-lake.jpg" alt="Sorry you are not cool enough to see this picture">
+							<div>
+								<h3 id="The Great Salt Lake">The Great Salt Lake </h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+			<!--End of Photo Container 3-->
+			
+			<!--Photo-Container-->
+					<div>
+						<div>
+							<img src="./one-page-website-images/park-city.jpg" alt="Sorry you are not cool enough to see this picture">
+							<div>
+								<h3 id="Park City Utah">Park City Utah </h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+			<!--End of Photo Container 4-->
+			
+			<!--Photo-Container-->
+					<div>
+						<div>
+							<img src="./one-page-website-images/salt flats.jpg" alt="Sorry you are not cool enough to see this picture">
+							<div>
+								<h3 id="Salt Flats">Salt Flats</h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+			<!--End of Photo Container 5-->
+			
+			
+			<div>
+				<iframe width="420" height="315"
+				src="https://www.youtube.com/watch?v=y36MFHuKeZc&t=557s&ab_channel=KevinEassa">
+				</iframe>
+				<div>
+					<h3 id="Video">Best Places to Visit in Utah Video</h3>
+				</div>
+			</div>
+		
+		<form action="" method="get" id="contact"> 
+			First name: <input type="text" name="First_Name"><br>
+			Last Name: <input type="text" name="Last_Name"><br>
+			Email: <input type="email" name="Email"><br>
+			Password: <input type="password" name="Password"><br>
+			<input type="submit" value="Submit">
+		</form>
+		
+	
+	</body>
+</html>	
